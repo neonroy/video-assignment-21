@@ -1,0 +1,40 @@
+img{
+    max-width: 100%;
+}
+.circle {
+    padding: 50px;
+}
+
+.picture img{
+
+    margin-top: 21px;    
+    border: 3px solid red;    
+    border-radius: 106px;
+}
+.picture{
+
+    margin-top: 63px;         
+}
+.blockquote{
+
+}
+.pic{
+    background: url(https://i.postimg.cc/Nf8YfHwX/left.png) centerc center no-repeat;
+    /*! background-size: cover; */
+    /*! padding: 211px 0px; */
+}
+.card-bg{
+    background-color: #2e3e4e;
+}
+.nnn{
+    position: absolute;    
+    top: 185px;
+}
+.nnn h2{
+
+    max-width: 400px;       
+    margin: auto;
+}
+.nnn span{
+    color: #ef664d;
+}
